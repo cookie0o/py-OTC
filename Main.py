@@ -1,4 +1,3 @@
-from turtle import color
 from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtWidgets import QColorDialog
 #
@@ -7,7 +6,6 @@ import configparser
 import threading
 import keyboard
 import win32gui
-import winsound
 from colorama import init, Fore
 init(autoreset=True)
 import time

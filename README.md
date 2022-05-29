@@ -19,9 +19,12 @@
  - **LIGHT-VALUE-CHANGER**
  - **TRIGGER-BOT**  
  - **CONFIG LOAD-SAVE**
+ - **HIDE/SHOW WINDOW USING KEY**
 
-#### cheat UI;
-![UI](https://user-images.githubusercontent.com/81589649/170880899-a9503ba2-87b4-4d72-826f-07cd0c5f54b1.png)
+#### cheat;
+![1](https://user-images.githubusercontent.com/81589649/170881153-bcc8a48f-a8f9-4650-be2b-e8db9491b95e.png)
+![2](https://user-images.githubusercontent.com/81589649/170881156-657cd405-e673-4c35-b310-eb288575a0ba.png)
+![3](https://user-images.githubusercontent.com/81589649/170881157-dd47b92b-669c-4ba6-8cd3-9b2cb488f239.png)
 
 ## Instructions
 1. Download the code (and have python installed)
